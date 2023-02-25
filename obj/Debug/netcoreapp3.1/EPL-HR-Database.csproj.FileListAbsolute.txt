@@ -1,0 +1,4 @@
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\netcoreapp3.1\EPL-HR-Database.csprojAssemblyReference.cache
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\netcoreapp3.1\EPL-HR-Database.AssemblyInfoInputs.cache
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\netcoreapp3.1\EPL-HR-Database.AssemblyInfo.cs
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\netcoreapp3.1\EPL-HR-Database.csproj.CoreCompileInputs.cache

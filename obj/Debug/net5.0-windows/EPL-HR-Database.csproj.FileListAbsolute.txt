@@ -1,0 +1,12 @@
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\bin\Debug\net5.0-windows\EPL-HR-Database.deps.json
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\bin\Debug\net5.0-windows\EPL-HR-Database.dll
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\bin\Debug\net5.0-windows\ref\EPL-HR-Database.dll
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\bin\Debug\net5.0-windows\EPL-HR-Database.pdb
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.csprojAssemblyReference.cache
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.AssemblyInfoInputs.cache
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.AssemblyInfo.cs
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.csproj.CoreCompileInputs.cache
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.dll
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\ref\EPL-HR-Database.dll
+C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\obj\Debug\net5.0-windows\EPL-HR-Database.pdb

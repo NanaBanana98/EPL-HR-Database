@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EPL-HR-Database</id>
+    <version>1.0.0</version>
+    <authors>EPL-HR-Database</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\bin\Debug\net5.0\EPL-HR-Database.runtimeconfig.json" target="lib\net5.0\EPL-HR-Database.runtimeconfig.json" />
+    <file src="C:\Users\Ariana\OneDrive\NodeJSProjects\EPL-HR-Database\bin\Debug\net5.0\EPL-HR-Database.dll" target="lib\net5.0\EPL-HR-Database.dll" />
+  </files>
+</package>
